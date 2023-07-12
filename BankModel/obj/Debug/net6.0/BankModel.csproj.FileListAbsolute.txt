@@ -1,0 +1,15 @@
+C:\Users\olAfolabi\Desktop\C#\BankModel\BankModel\bin\Debug\net6.0\BankModel.exe
+C:\Users\olAfolabi\Desktop\C#\BankModel\BankModel\bin\Debug\net6.0\BankModel.deps.json
+C:\Users\olAfolabi\Desktop\C#\BankModel\BankModel\bin\Debug\net6.0\BankModel.runtimeconfig.json
+C:\Users\olAfolabi\Desktop\C#\BankModel\BankModel\bin\Debug\net6.0\BankModel.dll
+C:\Users\olAfolabi\Desktop\C#\BankModel\BankModel\bin\Debug\net6.0\BankModel.pdb
+C:\Users\olAfolabi\Desktop\C#\BankModel\BankModel\obj\Debug\net6.0\BankModel.csproj.AssemblyReference.cache
+C:\Users\olAfolabi\Desktop\C#\BankModel\BankModel\obj\Debug\net6.0\BankModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olAfolabi\Desktop\C#\BankModel\BankModel\obj\Debug\net6.0\BankModel.AssemblyInfoInputs.cache
+C:\Users\olAfolabi\Desktop\C#\BankModel\BankModel\obj\Debug\net6.0\BankModel.AssemblyInfo.cs
+C:\Users\olAfolabi\Desktop\C#\BankModel\BankModel\obj\Debug\net6.0\BankModel.csproj.CoreCompileInputs.cache
+C:\Users\olAfolabi\Desktop\C#\BankModel\BankModel\obj\Debug\net6.0\BankModel.dll
+C:\Users\olAfolabi\Desktop\C#\BankModel\BankModel\obj\Debug\net6.0\refint\BankModel.dll
+C:\Users\olAfolabi\Desktop\C#\BankModel\BankModel\obj\Debug\net6.0\BankModel.pdb
+C:\Users\olAfolabi\Desktop\C#\BankModel\BankModel\obj\Debug\net6.0\BankModel.genruntimeconfig.cache
+C:\Users\olAfolabi\Desktop\C#\BankModel\BankModel\obj\Debug\net6.0\ref\BankModel.dll
