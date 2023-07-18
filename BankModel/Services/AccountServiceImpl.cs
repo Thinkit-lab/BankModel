@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace BankModel.Services
 {
-    class AccountServiceImpl : AccountService
+    public class AccountServiceImpl : AccountService
     {
         private const double minimumSavingsBalance = 1000;
         public TransactionResponse Deposit(AccountDetails accountDetails, double amount)

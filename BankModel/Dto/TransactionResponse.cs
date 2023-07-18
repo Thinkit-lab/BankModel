@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BankModel.Dto
 {
-    class TransactionResponse
+    public class TransactionResponse
     {
         private string accountName;
         private string accountType;

@@ -31,9 +31,9 @@ namespace BankModel.Model
 
         public int AccountId { get => accountId; set => accountId = value; }
         public string AccountNumber { get => accountNumber; set => accountNumber = value; }
-        internal AccountType AccountType { get => accountType; set => accountType = value; }
+        public AccountType AccountType { get => accountType; set => accountType = value; }
         public double AccountBalance { get => accountBalance; set => accountBalance = value; }
-        internal User Owner { get => owner; set => owner = value; }
+        public User Owner { get => owner; set => owner = value; }
 
         public override bool Equals(object? obj)
         {

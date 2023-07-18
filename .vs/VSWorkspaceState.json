@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BankModel"
+    "\\BankModel",
+    "\\BankModel.Tests",
+    "\\BankModel.Tests\\Services",
+    "\\BankModel\\Services"
   ],
   "SelectedNode": "\\BankModel\\Program.cs",
   "PreviewInSolutionExplorer": false
